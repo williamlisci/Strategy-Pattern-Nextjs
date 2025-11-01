@@ -1,0 +1,2 @@
+# Strategy-Pattern-Nextjs
+demo
